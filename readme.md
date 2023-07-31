@@ -3,8 +3,9 @@
 - **Computer Science & Engineering, University of Rajshahi**
 
 ### 3rd Year 1st Semester
-- **`CSE-3142` [Digital Signal Processing Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)**
-- **`CSE-3142` [Computer Networking Lab](https://github.com/ahnafshahrear/Java-Socket-Programming)**
+- **`CSE-3132` [Digital Signal Processing Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)**
+- **`CSE-3142` [Compiler Design](https://github.com/ahnafshahrear/Compiler-Design)**
+- **`CSE-3152` [Computer Networking Lab](https://github.com/ahnafshahrear/Java-Socket-Programming)**
 
 ### 3rd Year 2nd Semester
 - **`CSE-3242` [Operating System Lab](https://github.com/ahnafshahrear/Operating-System-Lab)**
