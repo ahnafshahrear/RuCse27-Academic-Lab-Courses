@@ -1,7 +1,8 @@
 ### Academic Lab Courses of RuCse27
 - **[Ahnaf Shahrear Khan](https://github.com/ahnafshahrear)**
 - **Computer Science & Engineering, University of Rajshahi**
-  
+
+***This Repository contains all the Academic lab Courses of the 27th Batch of Computer Science & Engineering - University of Rajshahi***
 
 ## 3ʀᴅ ʏᴇᴀʀ 1ꜱᴛ ꜱᴇᴍᴇꜱᴛᴇʀ
 - **`CSE-3132` [Digital Signal Processing Lab](https://github.com/ahnafshahrear/Digital-Signal-Processing-Lab)** 
