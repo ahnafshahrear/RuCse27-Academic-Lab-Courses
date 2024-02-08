@@ -15,7 +15,7 @@
 - **`ICE-3262` [Communication Engineering Lab](https://github.com/ahnafshahrear/Communication-Engineering-Lab)**
 
 ## 4ᴛʜ ʏᴇᴀʀ 1ꜱᴛ ꜱᴇᴍᴇꜱᴛᴇʀ
-- **`CSE-4112` [Parallel Processing & Distributed System Lab](https://github.com/ahnafshahrear/Parallel-Processing-And-Distributed-System-Lab)**
+- **`CSE-4112` [Parallel Processing Lab](https://github.com/ahnafshahrear/Parallel-Processing-And-Distributed-System-Lab)**
 - **`CSE-4132` [Object Oriented Design & Design Patterns Lab](https://github.com/ahnafshahrear/Object-Oriented-Design-And-Design-Patterns-Lab)**
 - **`CSE-4132` [Computer Simulation & Modeling Lab](https://github.com/ahnafshahrear/Computer-Simulation-And-Modeling-Lab)**
 - **`CSE-4132` [Digital Image Processing Lab](https://github.com/ahnafshahrear/Digital-Image-Processing-Lab)**
